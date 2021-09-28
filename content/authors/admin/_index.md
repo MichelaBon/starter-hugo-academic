@@ -1,6 +1,6 @@
 ---
 title: Michela Bonani
-role: "Ph.D. Candidate, Economics Tilburg University "
+role: "Ph.D. Candidate, Economics "
 avatar_filename: mb_photo.jpg
 bio: ""
 interests:
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: "Tilburg University "
+    url: https://www.tilburguniversity.edu/about/schools/economics-and-management
 education:
   courses:
     - course: PhD in Artificial Intelligence

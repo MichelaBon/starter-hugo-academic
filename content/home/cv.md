@@ -18,11 +18,11 @@ date_format: Jan 2006
 
 #CV
 
-A full version of my CV is available {{% staticref "/files/Bonani_CV.pdf" "newtab" %}}here{{% /staticref %}}.
-
-design:
-  columns: '2'
+#design:
+  #columns: '2'
 ---
+
+A full version of my CV is available {{% staticref "/files/Bonani_CV.pdf" "newtab" %}}here{{% /staticref %}}.
 
 
 

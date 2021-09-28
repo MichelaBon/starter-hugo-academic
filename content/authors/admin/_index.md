@@ -11,32 +11,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - display:
+      header: false
+    icon: github
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://github.com/MichelaBon
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/michela-bonani-2012a5b2/
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon: linkedin
 organizations:
   - name: "Tilburg University "
     url: https://www.tilburguniversity.edu/about/schools/economics-and-management
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc Economics and Social Sciences
+      institution: Universita' L. Bocconi
+      year: 2014
+    - course: B.Sc Management and Business Administration
+      institution: Universita' L. Bocconi
+      year: 2011
 email: ""
 superuser: true
 highlight_name: true

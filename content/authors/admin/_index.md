@@ -4,9 +4,9 @@ role: "Ph.D. Candidate, Economics "
 avatar_filename: mb_photo.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Empirical IO
+  - Innovation
+  - Patents
 social:
   - icon: envelope
     icon_pack: fas

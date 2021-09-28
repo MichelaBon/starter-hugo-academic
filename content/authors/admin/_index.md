@@ -36,11 +36,13 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate at the Department of Economics at Tilburg University affiliated with TILEC. I expect to graduate in the summer of 2022. My job market paper is available {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.[](https://rgreminger.github.io/files/jmp.pdf)
+I am a PhD candidate at the Department of Economics at Tilburg University affiliated with TILEC. I expect to graduate in the summer of 2022. [](https://rgreminger.github.io/files/jmp.pdf)
 
 My main research interests are in the areas of empirical industrial organization and economics of innovation. In my research, I use structural models to study the interplay between technology standards, essential patents, and industry structure, and how this interaction can stimulate technology progress.
 
-My supervisors are Florian Schutt and Christoph Walsh. 
+My supervisors are Tobias Klein, Florian Schutt, and Christoph Walsh. 
+
+I will be available for interviews at the EAA conference. My job market paper is available {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}. 
 
 \
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

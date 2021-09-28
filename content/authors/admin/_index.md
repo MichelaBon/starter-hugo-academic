@@ -45,4 +45,4 @@ My supervisors are Tobias Klein, Florian Schutt, and Christoph Walsh. 
 I will be available for interviews at the EAA conference. My job market paper is available {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}. 
 
 \
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Bonani_CV_0821.pdf" "newtab" >}}resumé{{< /staticref >}}.

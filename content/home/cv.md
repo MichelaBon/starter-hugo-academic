@@ -1,7 +1,7 @@
 ---
 widget: CV
 widget_id: CV
-weight: 150
+weight: 70
 title: CV
 design:
   columns: "2"

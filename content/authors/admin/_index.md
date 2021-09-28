@@ -42,7 +42,7 @@ My main research interests are in the areas of empirical industrial organization
 
 My supervisors are Tobias Klein, Florian Schutt, and Christoph Walsh. 
 
-I will be available for interviews at the EAA conference. My job market paper is available {{< staticref "uploads/Incompatibility_Bonani(2).pdf" "newtab" >}}here{{< /staticref >}}. 
+I will be available for interviews at the EAA conference. My job market paper is available {{< staticref "uploads/Incompatibility_Bonani(2).pdf" "newtab" >}}here{{< /staticref >}}
 
-\
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Bonani_CV_0821.pdf" "newtab" >}}resumé{{< /staticref >}}.

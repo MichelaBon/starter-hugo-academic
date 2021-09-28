@@ -40,4 +40,4 @@ I am a PhD candidate at the Department of Economics at Tilburg University affili
 
 My supervisors are Tobias Klein, Florian Schutt, and Christoph Walsh. 
 
-I will be available for interviews at the EEA conference. My job market paper is available {{< staticref "uploads/jmp.pdf" "newtab" >}}here{{< /staticref >}}
+I will be available for interviews at the EEA conference. My job market paper is available {{< staticref "files/jmp.pdf" "newtab" >}}here{{< /staticref >}}

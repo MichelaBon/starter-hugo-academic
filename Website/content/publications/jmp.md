@@ -4,6 +4,7 @@ abstract = "Compatibility is recognized to be a socially desirable outcome but t
 abstract_short = ""
 
 title = "Single vs Multiple Standards: A Structural Analysis of the US Wireless Telecommunications Industry"
+subtitle = "Job Market Paper, 2021"
 date = "2021-10-08"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

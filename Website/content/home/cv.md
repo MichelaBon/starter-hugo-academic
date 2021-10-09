@@ -1,6 +1,5 @@
 ---
-widget: CV
-widget_id: CV
+widget: blank
 weight: 70
 title: CV
 design:

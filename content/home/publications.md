@@ -1,7 +1,7 @@
 +++
 # Recent Publications widget. "publications"
 # This widget displays recent publications from `content/publications/`.
-widget = "costum"
+widget = pages
 active = true
 date = ""
 
@@ -14,6 +14,9 @@ weight = 20
 
 # Number of publications to list.
 count = 10
+
+# Page type to display. E.g. post, talk, publication...
+page_type: publications
 
 # List format.
 #   0 = Simple

@@ -8,14 +8,6 @@ date = ""
 title = "Working Papers"
 subtitle = ""
 
-content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: publications
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 5
-  # Choose how many pages you would like to offset by
-  offset: 0
-
 
 # Order that this section will appear in.
 weight = 20

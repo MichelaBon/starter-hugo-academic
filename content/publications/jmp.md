@@ -28,7 +28,7 @@ publication_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-url_custom = [{name = "Draft", url = "files/jmp.pdf"}]
+url_custom = [{name = "Draft", url = "/files/jmp.pdf"}]
 
 
 # Does the content use math formatting?

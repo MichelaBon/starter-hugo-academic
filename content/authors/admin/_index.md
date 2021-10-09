@@ -32,7 +32,7 @@ education:
     - course: B.Sc Management and Business Administration
       institution: Universita' L. Bocconi
       year: 2011
-email: ""
+email: "m.bonani@tilburguniversity.edu"
 superuser: true
 highlight_name: true
 ---

@@ -16,7 +16,7 @@ weight = 20
 count = 10
 
 # Page type to display. E.g. post, talk, publication...
-page_type: publications
+page_type = "publications"
 
 # List format.
 #   0 = Simple

@@ -7,9 +7,4 @@ design:
   columns: "2"
 ---
 
-A full version of my CV is available {{% staticref "/files/Bonani_CV.pdf" "newtab" %}}here{{% /staticref %}}.
-
-
-
-
-
+A full version of my CV is available {{< staticref "files/Bonani_CV.pdf" "newtab" >}}here{{< /staticref >}}.

@@ -1,8 +1,8 @@
----
++++
 # Recent Publications widget. "publications"
 # This widget displays recent publications from `content/publications/`.
-widget: publications
-active : true
+widget = "publications"
+active = true
 date = ""
 
 title = "Working Papers"
@@ -34,4 +34,4 @@ publication_type = "7"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
----
++++

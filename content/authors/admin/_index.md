@@ -1,7 +1,7 @@
 ---
 title: Michela Bonani
 role: "Ph.D. Candidate, Economics "
-avatar_filename: mb_photo.jpg
+avatar_filename: MB_photo.jpg
 bio: ""
 interests:
   - Empirical IO

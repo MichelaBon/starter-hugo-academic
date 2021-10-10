@@ -4,7 +4,7 @@ abstract = ""
 abstract_short = ""
 
 title = "Una nuova forma di impresa: la start-up innovativa (In italian)"
-subtitle = "Milano Produttiva 2015"
+subtitle = "Impresa & Citta'"
 date = "2015"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

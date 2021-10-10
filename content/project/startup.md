@@ -4,7 +4,7 @@ abstract = ""
 abstract_short = ""
 
 title = "Una nuova forma di impresa: la start-up innovativa"
-subtitle = ""
+subtitle = "In italian"
 date = "2015"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -28,7 +28,7 @@ publication_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-url_custom = []
+url_custom = ""
 
 
 # Does the content use math formatting?

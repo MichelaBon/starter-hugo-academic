@@ -18,17 +18,25 @@ authors = ["Michela Bonani"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["7"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = ""
 publication_short = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
-url_custom = [{name = "Draft", url = "/files/bonani-eco-UvT.pdf"}]
-
+url_pdf = "files/bonani-eco-UvT.pdf"
+url_code = ""
+url_dataset = ""
+url_poster = ""
+url_project = ""
+url_slides = ""
+url_source = ""
+url_video = ""
 
 # Does the content use math formatting?
 math = true

@@ -5,7 +5,7 @@ abstract_short = ""
 
 title = "Single vs Multiple Standards: A Structural Analysis of the US Wireless Telecommunications Industry"
 subtitle = ""
-date = "October 2021"
+date = "2021-10-10T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michela Bonani"]

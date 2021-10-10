@@ -3,7 +3,7 @@
 abstract = ""
 abstract_short = ""
 
-title = "Una nuova forma di impresa: la start-up innovativa (In italian)"
+title = "Una nuova forma di impresa: la start-up innovativa"
 subtitle = "Impresa & Citta'"
 date = "2015"
 

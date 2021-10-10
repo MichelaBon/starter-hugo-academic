@@ -28,21 +28,6 @@ publication = ""
 publication_short = ""
 
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: 'files/jmp.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-
 # Does the content use math formatting?
 math = true
 

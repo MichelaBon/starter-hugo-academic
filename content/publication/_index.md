@@ -1,4 +1,4 @@
-+++
+---
 abstract = ""
 title = "Publications"
 date = ""
@@ -16,4 +16,4 @@ list_format = 1
 [header]
 image = ""
 caption = ""
-+++
+---

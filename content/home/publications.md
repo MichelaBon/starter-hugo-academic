@@ -1,4 +1,4 @@
-+++
+---
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
@@ -34,5 +34,5 @@ publication_type = "3"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
-+++
+---
 

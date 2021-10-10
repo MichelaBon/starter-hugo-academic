@@ -5,7 +5,7 @@ abstract_short = ""
 
 title = "Single vs Multiple Standards: A Structural Analysis of the US Wireless Telecommunications Industry"
 subtitle = "Job Market Paper, 2021"
-date = ""
+date = "Job Market Paper, 2021"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michela Bonani"]
@@ -19,7 +19,7 @@ authors = ["Michela Bonani"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["7"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = ""

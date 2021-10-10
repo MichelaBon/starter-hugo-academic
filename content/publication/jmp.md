@@ -38,6 +38,7 @@ url_project = ""
 url_slides = ""
 url_source = ""
 url_video = ""
+
 # Does the content use math formatting?
 math = true
 

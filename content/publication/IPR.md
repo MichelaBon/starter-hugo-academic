@@ -4,7 +4,7 @@ abstract = "In this paper, I empirically study the effect of IEEE’s IPR policy
 abstract_short = ""
 
 title = "Standards, IPR Policies, and Innovation"
-date = ""
+date = "2021-10-10T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michela Bonani"]

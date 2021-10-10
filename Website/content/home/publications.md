@@ -1,7 +1,7 @@
 +++
 # Recent Publications widget.
 # This widget displays recent publications from `content/publications/`.
-widget = "publications"
+widget = "custom"
 active = true
 date = 2021-10-08
 
@@ -35,4 +35,3 @@ publication_type = "7"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-

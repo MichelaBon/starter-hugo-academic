@@ -4,7 +4,7 @@ role: "Ph.D. Candidate, Economics "
 bio: ""
 interests:
   - Empirical IO
-  - Innovation
+  - Economics of Innovation
   - Patents
 social:
   - icon: envelope

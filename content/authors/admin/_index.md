@@ -40,4 +40,4 @@ I am a PhD candidate at the Department of Economics at Tilburg University affili
 
 My supervisors are Tobias Klein, Florian Schutt, and Christoph Walsh.
 
-I will be on job market in 2021/2022 and will be available for interviews during the European Job Market for Economists and the ASSA Annual Meeting. My job market paper is available {{< staticref "files/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 
+I will be on the job market in 2021/2022 and will be available for interviews during the European Job Market for Economists and the ASSA Annual Meeting. My job market paper is available {{< staticref "files/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 

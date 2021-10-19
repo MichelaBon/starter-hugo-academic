@@ -3,8 +3,8 @@ title: Michela Bonani
 role: "Ph.D. Candidate, Economics "
 bio: ""
 interests:
-  - Empirical IO
-  - Economics of Innovation
+  - Empirical Industrial Organization
+  - The Economics of Innovation
   - Patents
 social:
   - icon: envelope
@@ -36,8 +36,8 @@ superuser: true
 highlight_name: true
 ---
 
-I am a PhD candidate at the Department of Economics at Tilburg University affiliated with TILEC. My main research interests are in the areas of empirical industrial organization and economics of innovation. In my research, I use structural models to study the interplay between technology standards, essential patents, and industry structure, and how this interaction can stimulate technology progress.
+I am a PhD candidate at the Department of Economics at Tilburg University affiliated with the Tilburg Law and Econimic Center (TILEC). My main research interests are in the areas of empirical industrial organization and economics of innovation. In my research, I use structural models to study the interplay between technology standards, essential patents, and industry structure, and how this interaction can stimulate technology progress.
 
 My supervisors are Tobias Klein, Florian Schutt, and Christoph Walsh.
 
-I will be available for interviews at the EEA conference. My job market paper is available {{< staticref "files/jmp.pdf" "newtab" >}}here{{< /staticref >}}
+I will be on job market in 2021/2022 and will be available for interviews during the European Job Market for Economists and the ASSA Annual Meeting. My job market paper is available {{< staticref "files/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 

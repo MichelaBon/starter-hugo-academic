@@ -7,7 +7,7 @@ title = "Standards, IPR Policies, and Innovation"
 date = "2021-10-10T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Michela Bonani"]
+authors = ""
 
 # Publication type.
 # Legend:

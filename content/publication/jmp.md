@@ -4,7 +4,7 @@ abstract="There has been a longstanding debate around whether a single standard 
 
 abstract_short = ""
 
-title = "Single vs Multiple Standards: A Structural Analysis of the US Wireless Telecommunications Industry (**Job Market Paper**)"
+title = "Single vs Multiple Standards: A Structural Analysis of the US Wireless Telecommunications Industry (Job Market Paper)"
 subtitle = ""
 date = "2021-10-10T00:00:00Z"
 

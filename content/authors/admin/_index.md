@@ -9,7 +9,7 @@ interests:
   - Law and Economics
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     email: "m.bonani@tilburguniversity.edu"
   - display:
       header: false

@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    email: m.bonani@tilburguniversity.edu
+    link:'/#contact'
   - display:
       header: false
     icon: github

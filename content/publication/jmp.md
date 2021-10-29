@@ -4,7 +4,7 @@ abstract="Compatibility is recognized to be a socially desirable outcome but the
 
 abstract_short = ""
 
-title = "Single vs Multiple Standards: A Structural Analysis of the US Wireless Telecommunications Industry (Job Market Paper)"
+title = "Uniform vs Competing Standards: A Structural Analysis of the US Wireless Telecommunications Industry (Job Market Paper)"
 subtitle = ""
 date = "2021-10-10T00:00:00Z"
 

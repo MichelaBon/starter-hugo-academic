@@ -6,7 +6,7 @@ abstract_short = ""
 
 title = "Uniform vs Competing Standards: A Structural Analysis of the US Wireless Telecommunications Industry (Job Market Paper)"
 subtitle = ""
-date = "2021-11-10T00:00:00Z"
+date = "2021-10-10T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ""

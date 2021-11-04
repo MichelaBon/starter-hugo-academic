@@ -26,11 +26,11 @@ organizations:
     url: https://www.tilburguniversity.edu/about/schools/economics-and-management
 education:
   courses:
-    - course: M.Sc Economics and Social Sciences
-      institution: Universita' L. Bocconi
+    - course: M.Sc. Economics and Social Sciences
+      institution: Bocconi University
       year: 2014
-    - course: B.Sc Management and Business Administration
-      institution: Universita' L. Bocconi
+    - course: B.S.c Management and Business Administration
+      institution: Bocconi University
       year: 2011
 email: "m.bonani@tilburguniversity.edu"
 superuser: true

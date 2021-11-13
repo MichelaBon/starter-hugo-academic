@@ -17,17 +17,17 @@ weight = 70
 
 **Current**
 
-Econometrics for ECO (B.Sc. in Economics), Fall 2021
+Econometrics for ECO (BSc in Economics), Fall 2021
 
 **Past**
 
-Econometrics for ECO (B.Sc. in Economics), Fall 2020
+Econometrics for ECO (BSc in Economics), Fall 2020
 
-Industrial Economics (B.Sc. in Economics) and Data communication for policy analysis (Bsc in Economics), Spring 2020
+Industrial Economics (BSc in Economics) and Data communication for policy analysis (Bsc in Economics), Spring 2020
 
-Industrial Economics (B.Sc. in Economics), Spring 2019
+Industrial Economics (BSc in Economics), Spring 2019
 
-Industrial Economics (B.Sc. in Economics), Spring 2018
+Industrial Economics (BSc in Economics), Spring 2018
 
-Microeconomics: Theory and Analysis (B.Sc. in Economics), Fall 2017
+Microeconomics: Theory and Analysis (BSc in Economics), Fall 2017
 

@@ -1,6 +1,6 @@
 ---
 title: Michela Bonani
-role: "Ph.D. Candidate, Economics "
+role: "PhD Candidate, Economics "
 bio: ""
 interests:
   - Empirical Industrial Organization
@@ -26,10 +26,10 @@ organizations:
     url: https://www.tilburguniversity.edu/about/schools/economics-and-management
 education:
   courses:
-    - course: M.Sc. Economics and Social Sciences
+    - course: MSc Economics and Social Sciences
       institution: Bocconi University
       year: 2014
-    - course: B.Sc. Management and Business Administration
+    - course: BSc Management and Business Administration
       institution: Bocconi University
       year: 2011
 email: "m.bonani@tilburguniversity.edu"

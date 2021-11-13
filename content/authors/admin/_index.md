@@ -29,7 +29,7 @@ education:
     - course: M.Sc. Economics and Social Sciences
       institution: Bocconi University
       year: 2014
-    - course: B.S.c Management and Business Administration
+    - course: B.Sc. Management and Business Administration
       institution: Bocconi University
       year: 2011
 email: "m.bonani@tilburguniversity.edu"

@@ -37,8 +37,8 @@ superuser: true
 highlight_name: true
 ---
 
-I am a PhD candidate at the Department of Economics at Tilburg University and affiliated with the Tilburg Law and Economics Center (TILEC). My main research interests are in the areas of empirical industrial organization and the economics of innovation. In my research, I use structural models to study the interplay between technology standards, patents, and industry structure, and how this interaction can stimulate technology progress.
+I am a PhD candidate at the Department of Economics at Tilburg University and affiliated with the Tilburg Law and Economics Center (TILEC). My main research interests are in the areas of empirical industrial organization and the economics of innovation. In my research, I use structural models to study the interplay between technology standards, patents, and industry structure, and how this interaction can stimulate technological progress.
 
-My official promotor is Tobias Klein, and my main supervisors are Florian Schuett, and Christoph Walsh.
+My supervisors are Florian Schuett, Christoph Walsh, and Tobias Klein.
 
 I will be on the job market in 2021/2022 and will be available for interviews during the European Job Market for Economists and the ASSA Annual Meeting. My job market paper is available {{< staticref "files/jmp.pdf" "newtab" >}}here{{< /staticref >}}. 

@@ -25,6 +25,9 @@ organizations:
     url: https://www.tilburguniversity.edu/about/schools/economics-and-management
 education:
   courses:
+    - course: PhD Economics 
+      institution: Tilburg University
+      Expected date: January 2023  
     - course: MSc Economics and Social Sciences
       institution: Bocconi University
       year: 2014

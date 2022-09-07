@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     icon: linkedin
 organizations:
-  - name: "Tilburg University "
-    url: https://www.tilburguniversity.edu/about/schools/economics-and-management
+  - name: "ESSEC Business School"
+    url: https://www.essec.edu/en/
 education:
   courses:
     - course: PhD Economics 

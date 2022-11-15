@@ -3,13 +3,13 @@ title: Michela Bonani
 role: "Postdoctoral Researcher, Economics "
 bio: ""
 interests:
-  - Empirical Industrial Organization
-  - Economics of Innovation
-  - Intellectual Property Rights 
+  - Industrial Organization
+  - Applied Microeconomics
+  - Applied Econometrics
 social:
   - icon: envelope
     icon_pack: fas
-    email: "m.bonani@tilburguniversity.edu"
+    email: "bonani@essec.edu"
   - display:
       header: false
     icon: github
@@ -27,18 +27,18 @@ education:
   courses:
     - course: PhD Economics 
       institution: Tilburg University
-      year: Expected January 2023  
+      year: June 2023  
     - course: MSc Economics and Social Sciences
       institution: Bocconi University
       year: 2014
     - course: BSc Management and Business Administration
       institution: Bocconi University
       year: 2011
-email: "m.bonani@tilburguniversity.edu"
+email: "bonani@essec.edu"
 superuser: true
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher at ESSEC Business School, working on topics within the BlaBlaModes project.
+I am a Postdoctoral Researcher at ESSEC Business School, working on topics within the BlaBlaModes project. 
 
-My main research interests are in the areas of empirical industrial organization and the economics of innovation. 
+My research interests include Industrial Organization, Applied Microeconomics, and Applied Econometrics. 

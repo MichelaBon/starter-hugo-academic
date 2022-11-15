@@ -22,8 +22,11 @@ Business Economics (MSc in Management), Spring 2023
 **Past**
 
 TA Econometrics for ECO (BSc in Economics), 2020 - 2021
+
 TA Data communication for policy analysis (Bsc in Economics) - 2020
+
 TA Industrial Economics (BSc in Economics) , 2018 - 2020
+
 TA Microeconomics: Theory and Analysis (BSc in Economics), Fall 2017
 
 

@@ -6,7 +6,7 @@ design:
   columns: "2"
 ---
 
-**The Social Welfare Implication of Multimodality Technologies: the Case of BlaBlaModes**
+**The Social Welfare Implication of Multimodality Technologies: Evidence from BlaBlaModes**
 
 
 

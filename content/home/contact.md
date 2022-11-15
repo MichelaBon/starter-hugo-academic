@@ -1,6 +1,6 @@
 +++
 # Contact widget.
-widget = "contact"
+#widget = "contact"
 active = false
 date = ""
 

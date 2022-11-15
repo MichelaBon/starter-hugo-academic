@@ -6,7 +6,7 @@ design:
   columns: "2"
 ---
 
-**Standardization and Patent Portfolio: Understanding Firms' Choices in Standard Projects**
+**The Social Welfare Implication of Multimodality Technologies: the Case of BlaBlaModes**
 
 
 

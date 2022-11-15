@@ -42,3 +42,8 @@ highlight_name: true
 I am a Postdoctoral Researcher at ESSEC Business School, working on topics within the BlaBlaModes project. 
 
 My research interests include Industrial Organization, Applied Microeconomics, and Applied Econometrics. 
+
+You can download my CV {{< staticref "/files/Bonani_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+
+Email: bonani@essec.edu
+

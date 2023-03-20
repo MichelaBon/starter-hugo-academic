@@ -1,6 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = "In this paper, I empirically study the effect of the Electrical and Electronics Engineers (IEEE)’s IPR policy change in 2015 on standard related innovation. I construct a novel dataset of companies that have declared at least one patent as essential for an IEEE standard (the treatment group), and I then collect a sample of firms active in the same industries and having similar characteristics but which have not declared a patent as essential to IEEE (the control group). Using a difference-in-differences approach, I provide causal evidence that the IEEE IPR policy change led to a reduction in standard related patenting among the firms affected by the change. My results show that more restrictive patent policies at the SDO level decrease the innovation effort of firms in standard related technologies by 15.2%."
+abstract = "In this paper, I empirically study the effect of IEEE’s IPR policy change in 2015 on standard-related innovation. I construct a novel dataset of companies that have declared at least one patent as essential for an IEEE standard (the treatment group). I then collect a sample of firms active in the same industries and having similar characteristics but which have not declared a patent as essential to IEEE (the control group). Using an inverse probability weighting difference-in-differences approach, I provide causal evidence that the IEEE IPR policy change led to a 40.4% reduction in standard-related patenting among the firms affected by the change."
 
 abstract_short = ""
 

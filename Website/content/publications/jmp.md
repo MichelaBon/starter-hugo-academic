@@ -4,8 +4,8 @@ abstract = "Different regulations to impose compatibility have prompted fierce d
 abstract_short = ""
 
 title = "Single vs Multiple Standards: A Structural Analysis of the US Wireless Telecommunications Industry"
-subtitle = "Job Market Paper, 2021"
-date = "2021-10-08"
+subtitle = "Job Market Paper"
+date = "2024-10-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Michela Bonani"]

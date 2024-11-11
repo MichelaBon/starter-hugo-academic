@@ -16,10 +16,12 @@ weight = 70
 +++
 
 **Current**
+
 I am not teaching any courses for the current academic year. 
 
 
 **Past**
+
 Business Economics (MSc in Management), Spring 2023
 
 TA Econometrics for ECO (BSc in Economics), 2020 - 2022

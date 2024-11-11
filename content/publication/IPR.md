@@ -4,7 +4,7 @@ abstract = "This paper investigates the effects of enforcing licensing requireme
 
 abstract_short = ""
 
-title = "Standard-Setting, IPR Policies and the Incentives to Innovate: Evidence from the IEEE Patent Policy Update (New version!)"
+title = "Standard-Setting and the Incentives to Innovate: Evidence from the IEEE Patent Policy Update(New version!)"
 subtitle = "New version!"
 date = "2024-10-31T00:00:00Z"
 

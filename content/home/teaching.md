@@ -16,16 +16,17 @@ weight = 70
 +++
 
 **Current**
+I am not teaching any courses for the current academic year. 
 
-Business Economics (MSc in Management), Spring 2023
 
 **Past**
+Business Economics (MSc in Management), Spring 2023
 
-TA Econometrics for ECO (BSc in Economics), 2020 - 2021
+TA Econometrics for ECO (BSc in Economics), 2020 - 2022
 
-TA Data communication for policy analysis (Bsc in Economics) - 2020
+TA Data communication for policy analysis (BSc in Economics) - 2020
 
-TA Industrial Economics (BSc in Economics) , 2018 - 2020
+TA Industrial Economics (BSc in Economics), 2018 - 2020
 
 TA Microeconomics: Theory and Analysis (BSc in Economics), Fall 2017
 

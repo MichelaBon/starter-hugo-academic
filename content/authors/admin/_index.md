@@ -40,7 +40,7 @@ highlight_name: true
 
 I am a Postdoctoral Researcher at Universitat Pompeu Fabra. I am also affiliated with ESSEC Business School, working on topics within the BlaBlaModes project. 
 
-My main research interests include Empirical Industrial Organization and Applied Microeconometrics. With my current projects, I examine how compatibility and competition in network markets can improve social welfare, with a focus on Information and Communications Technology and Transportation industries. In my work, I combine economic models of strategic interactions, market data, and econometric tools for structural estimation and causal inference.
+My main research interests are in Empirical Industrial Organization and Market Design, focusing on the digital economy,  transportation, and standardization.  In my work, I combine economic models of strategic interactions, market data, and econometric tools for structural estimation and causal inference.
 
 You can download my CV {{< staticref "/files/Bonani_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 

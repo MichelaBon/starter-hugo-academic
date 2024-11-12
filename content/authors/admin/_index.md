@@ -3,8 +3,9 @@ title: Michela Bonani
 role: "Postdoctoral Researcher, Economics "
 bio: ""
 interests:
-  - Industrial Organization
+  - Empirical Industrial Organization
   - Applied Microeconometrics
+  - Market Design
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,7 +41,7 @@ highlight_name: true
 
 I am a Postdoctoral Researcher at Universitat Pompeu Fabra. I am also affiliated with ESSEC Business School, working on topics within the BlaBlaModes project. Before that, I completed my PhD in economics at Tilburg University.
 
-My main research interests are in Empirical Industrial Organization and Market Design, focusing on the digital economy,  transportation, and standardization.  In my work, I combine economic models of strategic interactions, market data, and econometric tools for structural estimation and causal inference.
+My main research interests are in Empirical Industrial Organization and Market Design, focusing on the digital economy,  transportation, and standardization. In my work, I combine economic models of strategic interactions, market data, and econometric tools for structural estimation and causal inference.
 
 You can download my CV {{< staticref "/files/Bonani_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 

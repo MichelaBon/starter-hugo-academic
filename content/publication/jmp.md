@@ -4,7 +4,7 @@ abstract="Different regulations to impose compatibility have prompted fierce deb
 
 abstract_short = ""
 
-title = "Uniform vs Competing Standards: A Structural Analysis of the U.S. Wireless Telecommunications Industry (Job Market Paper)"
+title = "Uniform vs Competing Standards: A Structural Analysis of the U.S. Wireless Telecommunications Industry (New Version coming soon!)"
 subtitle = ""
 date = "2024-11-01T00:00:00Z"
 

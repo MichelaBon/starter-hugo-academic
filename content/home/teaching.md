@@ -17,7 +17,7 @@ weight = 70
 
 **Current**
 
-I am not teaching any courses for the current academic year. 
+TA Introduction to Game Theory (Competition and Regulation Master), Fall 2025
 
 
 **Past**

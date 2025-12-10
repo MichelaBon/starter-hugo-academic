@@ -23,7 +23,7 @@ authors = ""
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Revise and Resubmit, International Journal of Industrial Organization"
+publication = "Accepted, International Journal of Industrial Organization"
 publication_short = ""
 
 # Custom links (uncomment lines below)

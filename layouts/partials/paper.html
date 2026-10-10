@@ -1,0 +1,44 @@
+{{- /* One paper entry. Context: a map from data/research.yaml */ -}}
+{{- $p := . -}}
+<article class="paper">
+  <h3 class="paper-title">
+    {{- if $p.pdf -}}<a href="{{ $p.pdf | relURL }}">{{ $p.title }}</a>
+    {{- else if $p.url -}}<a href="{{ $p.url }}">{{ $p.title }}</a>
+    {{- else -}}{{ $p.title }}{{- end -}}
+  </h3>
+  {{- if or $p.coauthors $p.journal $p.status }}
+  <p class="paper-meta">
+    {{- with $p.coauthors }}with {{ . }}{{ end -}}
+    {{- if and $p.coauthors (or $p.journal $p.status) }} · {{ end -}}
+    {{- with $p.journal }}<em>{{ . }}</em>{{ with $p.details }}, {{ . }}{{ end }}{{ end -}}
+    {{- with $p.status }}<em>{{ . }}</em>{{ end -}}
+  </p>
+  {{- end }}
+  {{- if or $p.pdf $p.url $p.appendix $p.slides }}
+  <div class="paper-links">
+    {{- with $p.pdf }}<a class="pill" href="{{ . | relURL }}">PDF</a>{{ end -}}
+    {{- with $p.url }}<a class="pill" href="{{ . }}">Published version</a>{{ end -}}
+    {{- with $p.appendix }}<a class="pill" href="{{ . | relURL }}">Online appendix</a>{{ end -}}
+    {{- with $p.slides }}<a class="pill" href="{{ . | relURL }}">Slides</a>{{ end -}}
+  </div>
+  {{- end }}
+  {{- with $p.abstract }}
+  <details class="fold">
+    <summary>Abstract</summary>
+    <p>{{ . }}</p>
+  </details>
+  {{- end }}
+  {{- with $p.figures }}
+  <details class="fold">
+    <summary>Key figures</summary>
+    <div class="figs">
+      {{- range . }}
+      <figure>
+        <a href="{{ .src | relURL }}"><img src="{{ .src | relURL }}" alt="{{ .caption | plainify }}" loading="lazy"></a>
+        <figcaption>{{ .caption }}</figcaption>
+      </figure>
+      {{- end }}
+    </div>
+  </details>
+  {{- end }}
+</article>

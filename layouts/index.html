@@ -1,0 +1,97 @@
+{{- $r := site.Data.research -}}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.Title }}</title>
+  <meta name="description" content="{{ site.Params.description }}">
+  <meta property="og:title" content="{{ site.Title }}">
+  <meta property="og:description" content="{{ site.Params.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.BaseURL }}">
+  <meta property="og:image" content="{{ "img/avatar.jpg" | absURL }}">
+  <link rel="icon" href="{{ "img/avatar.jpg" | relURL }}">
+  {{- $css := resources.Get "style.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+</head>
+<body>
+  <nav class="topnav">
+    <div class="wrap">
+      <a class="brand" href="#top">Michela Bonani</a>
+      <span class="navlinks">
+        <a href="#research">Research</a>
+        <a href="#teaching">Teaching</a>
+        <a href="{{ site.Params.cv | relURL }}">CV</a>
+        <a href="#contact">Contact</a>
+      </span>
+    </div>
+  </nav>
+
+  <main class="wrap" id="top">
+    <header class="intro">
+      <img class="avatar" src="{{ "img/avatar.jpg" | relURL }}" alt="Photo of Michela Bonani" width="180" height="180">
+      <div>
+        <h1>Michela Bonani</h1>
+        <p class="role">{{ site.Params.role }}<br><a href="{{ site.Params.affiliationURL }}">{{ site.Params.affiliation }}</a></p>
+        <p class="quick">
+          <a href="{{ site.Params.cv | relURL }}"><strong>CV</strong></a>
+          · <a href="mailto:{{ site.Params.email }}">Email</a>
+          {{- with site.Params.scholar }} · <a href="{{ . }}">Google Scholar</a>{{ end }}
+          {{- with site.Params.github }} · <a href="{{ . }}">GitHub</a>{{ end }}
+          {{- with site.Params.linkedin }} · <a href="{{ . }}">LinkedIn</a>{{ end }}
+        </p>
+      </div>
+    </header>
+
+    <section class="bio">
+      {{ .Content }}
+    </section>
+
+    <section id="research">
+      <h2>Job Market Paper</h2>
+      {{ range $r.job_market_paper }}{{ partial "paper.html" . }}{{ end }}
+
+      <h2>Publications</h2>
+      {{ range $r.publications }}{{ partial "paper.html" . }}{{ end }}
+
+      <h2>Working Papers</h2>
+      {{ range $r.working_papers }}{{ partial "paper.html" . }}{{ end }}
+
+      <h2>Work in Progress</h2>
+      <ul class="plain">
+        {{- range $r.work_in_progress }}
+        <li><span class="wip">{{ .title }}</span>{{ with .coauthors }}, with {{ . }}{{ end }}</li>
+        {{- end }}
+      </ul>
+
+      <h2>Other Writings</h2>
+      <ul class="plain">
+        {{- range $r.other_writings }}
+        <li>{{ .text | safeHTML }}{{ with .url }} <a href="{{ . }}">[link]</a>{{ end }}</li>
+        {{- end }}
+      </ul>
+    </section>
+
+    <section id="teaching">
+      <h2>Teaching</h2>
+      <table class="cvlist">
+        {{- range $r.teaching }}
+        <tr><td class="yr">{{ .years }}</td><td>{{ .text }}</td></tr>
+        {{- end }}
+      </table>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        Department of Economics and Business, Universitat Pompeu Fabra<br>
+        Ramon Trias Fargas 25–27, 08005 Barcelona, Spain<br>
+        <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a>
+      </p>
+    </section>
+  </main>
+
+  <footer class="wrap">© {{ now.Year }} Michela Bonani</footer>
+</body>
+</html>

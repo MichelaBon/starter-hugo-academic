@@ -1,0 +1,133 @@
+# ------------------------------------------------------------------
+# All research content on the homepage lives in this one file.
+# To add a paper, copy an entry and edit it. Optional fields can be
+# left out. PDFs go in static/files/, figures in static/figures/.
+# ------------------------------------------------------------------
+
+job_market_paper:
+  - title: "Enabling the Unavailable Trip: Consumer Welfare and Willingness to Pay for Multimodal Technology"
+    coauthors: "J. Hidalgo"
+    # pdf: "files/Bonani_JMP.pdf"     # <- add the JMP PDF to static/files/ and uncomment
+    abstract: >-
+      This paper studies how multimodal technologies affect consumer welfare by expanding the set of
+      feasible transportation options. On transportation platforms, consumers may be unable to book their
+      searched trip because the requested origin–destination pair is not served or because supply is
+      unavailable at the time of booking. Multimodal technologies can relax these constraints by expanding
+      the set of reachable destinations and by increasing the availability of transportation options across
+      origin–destination pairs. However, the value of this technology depends on consumers' preferences for
+      multimodal trips and on their willingness to pay for the resulting improvement in service. We develop
+      an empirical model of transportation-mode choice across carpooling, buses, and an outside option on
+      BlaBlaCar, the largest long-distance carpooling platform. Using proprietary BlaBlaCar data on passenger
+      searches and bookings, together with information on the supply of BlaBlaCar cars and buses, we quantify
+      consumers' disutility from not making the searched trip, measured by the distance (in km) between the
+      searched and the booked origin–destination pairs. We use the estimated model to quantify consumers'
+      value of multimodal technology and its implications for consumer surplus.
+    # figures:                          # <- add 2–3 key graphs here, e.g.
+    #   - src: "figures/jmp-1.png"
+    #     caption: "Short description of what the graph shows."
+
+publications:
+  - title: "Standard-Setting and the Incentives to Innovate: Evidence from the IEEE Patent Policy Update"
+    journal: "International Journal of Industrial Organization"
+    details: "2026, 104, 103235"
+    url: "https://doi.org/10.1016/j.ijindorg.2025.103235"
+    abstract: >-
+      This paper investigates how stricter licensing rules affect firms' incentives to innovate in
+      standard-related technologies. I study the 2015 patent policy revision by the Institute of Electrical
+      and Electronics Engineers (IEEE), which limited SEP holders' ability to seek injunctions and encouraged
+      royalties based on the smallest salable unit. Using a continuous difference-in-differences approach, I
+      show that the new policy increases standard-related patenting, with the strongest effects among firms
+      furthest from the standards' technology space. However, the effects differ across firm types. SEP
+      holders reduced their innovation activity, consistent with weaker royalty incentives, while non-SEP
+      firms expanded patenting, benefiting from lower licensing costs and new opportunities to reposition
+      themselves. Although the policy created challenges for SEP owners, my results suggest that the broader
+      increase in innovation among other firms outweighed these declines. These results highlight how patent
+      policy design within standard setting organizations can reallocate innovation incentives across firms.
+    figures:
+      - src: "figures/ieee-raw-trends.png"
+        caption: >-
+          Patents filed per firm–standard pair, normalized by each firm's pre-policy average, by quartile of
+          technological closeness to IEEE standards (group 1 = closest, control group). Dashed lines mark the
+          policy announcement (2013) and its endorsement (2015).
+      - src: "figures/ieee-event-study.png"
+        caption: >-
+          Event-study estimates of the policy effect on standard-related patenting for firms in the 2nd, 3rd
+          and 4th quartiles relative to the 1st. Vertical bars are 95% confidence intervals.
+
+working_papers:
+  - title: "Uniform vs. Competing Standards: A Structural Analysis of the U.S. Wireless Telecommunications Industry"
+    status: "Submitted"
+    pdf: "files/Bonani_Uniform_vs_Competing_Standards.pdf"
+    appendix: "files/Bonani_Uniform_vs_Competing_Standards_Online_Appendix.pdf"
+    abstract: >-
+      This paper studies how technological compatibility affects network investment and welfare in
+      wireless markets. I develop an empirical model of consumer demand, spatial investment, and pricing
+      using U.S. data from the 3G networks. Counterfactual experiments show that unifying the wireless
+      network under a common standard increases welfare by expanding the effective network through
+      roaming. However, compatibility shifts investment from previously unserved areas toward areas covered
+      by compatible rivals, where firms internalize a larger share of returns. The welfare effects of
+      compatibility depend not only on network size, but also on the spatial allocation of firms'
+      investment responses.
+    figures:
+      - src: "figures/compat-spillovers.png"
+        caption: >-
+          Demand spillovers and business stealing: marginal effect of coverage exclusive to a compatible
+          rival (left) and of coverage exclusive to the focal firm (right) on the focal firm's market share.
+      - src: "figures/compat-heterogeneity.png"
+        caption: >-
+          Market-specific estimates of how firms' investment responds to empty-area and catch-up-area
+          opportunities, for the extensive (top) and intensive (bottom) margins.
+
+  - title: "Standardization and Patent Portfolios: Understanding Firms' Choices in Standard Projects"
+    pdf: "files/Bonani_Standardization_Patent_Portfolios.pdf"
+    abstract: >-
+      This paper studies the relationship between firms' decisions to participate in standardization and the
+      fit between a firm's technical knowledge and the standard's position in the technology space. Focusing
+      on a set of firms that declare essential patents for several standards issued by different
+      organizations, I study how firms allocate their contributions across standards, depending on a
+      firm–standard similarity measure and the intensity of competition among participating firms. My
+      findings suggest that the match between the technological fields of a standard and the firm's technical
+      knowledge is positively related to the firm's decision to participate in standards development. In
+      particular, a 1 percentage point increase in the technological fit between a firm and a standard
+      increases the probability that the firm participates in the standard's development by 0.05 percentage
+      points. Furthermore, my results support the hypothesis of a competition effect among participating
+      firms: a one-unit increase in the intensity of competition among firms in the same standard, driven
+      either by more contributing firms or by greater knowledge similarity among them, decreases the number
+      of SEPs declared by 32.7% on average.
+    figures:
+      - src: "figures/std-similarity.png"
+        caption: "Average share of standards in which firms participate, by decile of firm–standard technological similarity."
+      - src: "figures/std-competition.png"
+        caption: >-
+          Average number of SEPs declared (left) and of standard-related patents filed (right) per
+          firm–standard pair, by decile of competition intensity among contributing firms.
+
+work_in_progress:
+  - title: "Demand Estimation under Heterogeneous Dynamic Choice Sets and Forward-Looking Consumers"
+    coauthors: "J. Hidalgo"
+  - title: "The Equilibrium Effects of Multimodal Technologies"
+    coauthors: "J. Hidalgo"
+  - title: "Interoperability and Innovation: Evidence from the Digital Markets Act"
+    coauthors: "Laura Lasio"
+  - title: "Information, Price Commitment, and Entry in Peer-to-Peer Markets"
+    coauthors: "J. Gambato and L. Madio"
+
+other_writings:
+  - text: >-
+      Bonani, M. (2016). “Una nuova forma di impresa: la start-up innovativa.” <em>I&amp;C</em>, N. 8.
+      Bruno Mondadori, Milan. (In Italian)
+    url: "https://re.public.polimi.it/retrieve/handle/11311/970332/70037/I%26C%208_2015.pdf"
+  - text: >-
+      Bonani, M., and Mezza, L. (2015). “La performance delle imprese attraverso i dati di bilancio.”
+      In <em>Milano Produttiva 2015</em>, pp. 74–101. Bruno Mondadori, Milan. (In Italian)
+    url: "https://ester.milomb.camcom.it/rapporto-mp/milano-produttiva-2015"
+
+teaching:
+  - years: "2025–2026"
+    text: "Introduction to Game Theory (CRM), Barcelona School of Economics"
+  - years: "2023"
+    text: "Business Economics (graduate), ESSEC Business School"
+  - years: "2020"
+    text: "Data Communication for Policy Analysis (undergraduate, lecturer), Tilburg University"
+  - years: "2017–2022"
+    text: "Teaching assistant at Tilburg University: Econometrics, Industrial Economics, Microeconomics"

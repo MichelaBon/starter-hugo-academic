@@ -1,0 +1,19 @@
+baseURL = "https://www.michelabonani.com/"
+languageCode = "en-us"
+title = "Michela Bonani"
+disableKinds = ["taxonomy", "term", "RSS", "section"]
+enableRobotsTXT = true
+
+[params]
+  description = "Michela Bonani – economist working on empirical industrial organization, transportation platforms and standardization. Postdoctoral Researcher at Universitat Pompeu Fabra."
+  role = "Postdoctoral Researcher in Economics"
+  affiliation = "Universitat Pompeu Fabra"
+  affiliationURL = "https://www.upf.edu/web/econ"
+  email = "michela.bonani@upf.edu"
+  cv = "files/Bonani_CV.pdf"
+  github = "https://github.com/MichelaBon"
+  linkedin = "https://www.linkedin.com/in/michela-bonani-2012a5b2/"
+  # scholar = "https://scholar.google.com/citations?user=XXXX"   # add your Google Scholar link and uncomment
+
+[markup.goldmark.renderer]
+  unsafe = true

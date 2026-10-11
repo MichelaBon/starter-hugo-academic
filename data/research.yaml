@@ -8,7 +8,7 @@ job_market_paper:
   - title: "Enabling the Unavailable Trip: Consumer Welfare and Willingness to Pay for Multimodal Technology"
     coauthors: "J. Hidalgo"
     # pdf: "files/Bonani_JMP.pdf"     # <- add the JMP PDF to static/files/ and uncomment
-        abstract: >-
+    abstract: >-
       We recover the valuation for multimodal technologies using detailed data from a long-distance
       transportation platform in France. About 66% of the trips booked on the platform start or end in a
       different location from the one consumers initially searched for. We estimate a structural demand
@@ -19,9 +19,20 @@ job_market_paper:
       surplus by EUR 11.7 million: EUR 0.57 per searcher or EUR 5.6 per booking. We show that the platform
       could charge a uniform fee of up to EUR 5.2 per trip for the technology without reducing the average
       surplus.
-    # figures:                          # <- add 2–3 key graphs here, e.g.
-    #   - src: "figures/jmp-1.png"
-    #     caption: "Short description of what the graph shows."
+    figures:
+      - src: "figures/jmp-cs-gap-reduction.png"
+        caption: >-
+          Change in consumer surplus as the gap between searched and booked locations is reduced, holding
+          prices fixed (0% = observed data). Left: per searcher. Right: total change divided by the observed
+          number of bookings.
+      - src: "figures/jmp-extensive-margin.png"
+        caption: >-
+          Extensive margin: share of searchers who book, overall and by mode (bus, carpool), as the gap is
+          reduced.
+      - src: "figures/jmp-uniform-surcharge.png"
+        caption: >-
+          Change in consumer surplus per searcher when the gap is fully removed and every trip pays a uniform
+          surcharge. Consumer surplus returns to its observed level at a surcharge of about EUR 5.12 per trip.
 
 publications:
   - title: "Standard-Setting and the Incentives to Innovate: Evidence from the IEEE Patent Policy Update"

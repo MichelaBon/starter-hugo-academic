@@ -19,7 +19,7 @@ body {
 }
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
-.wrap { max-width: 820px; margin: 0 auto; padding: 0 20px; }
+.wrap { max-width: 900px; margin: 0 auto; padding: 0 20px; }
 
 /* top bar */
 .topnav { position: sticky; top: 0; z-index: 10; background: rgba(255,255,255,.95); border-bottom: 1px solid var(--rule); backdrop-filter: blur(6px); }
@@ -28,12 +28,15 @@ a:hover { text-decoration: underline; }
 .navlinks a { margin-left: 20px; color: var(--text); }
 .navlinks a:hover { color: var(--link); }
 
-/* intro */
-.intro { display: flex; gap: 32px; align-items: center; margin: 48px 0 24px; }
-.avatar { width: 180px; height: 180px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
-h1 { font-size: 2.2rem; margin: 0 0 6px; font-weight: 600; line-height: 1.2; }
-.role { margin: 0 0 10px; color: var(--muted); }
-.quick { margin: 0; }
+/* top: profile column (name, photo, details) + bio */
+.top { display: grid; grid-template-columns: 230px 1fr; gap: 48px; align-items: start; margin-top: 44px; }
+.profile { text-align: center; }
+h1 { font-size: 1.75rem; margin: 0 0 16px; font-weight: 600; line-height: 1.2; }
+/* photo: any image works; it is cropped to a 4:5 portrait from the top */
+.avatar { width: 190px; aspect-ratio: 4 / 5; height: auto; object-fit: cover; object-position: 50% 20%; border-radius: 4px; display: block; margin: 0 auto 14px; }
+.role { margin: 0 0 12px; color: var(--muted); line-height: 1.45; }
+.links { list-style: none; padding: 0; margin: 0; font-size: 16px; line-height: 1.7; }
+.bio { padding-top: 54px; }
 
 /* sections */
 h2 { font-size: 1.3rem; font-weight: 700; margin: 44px 0 16px; padding-bottom: 6px; border-bottom: 1px solid var(--rule); }
@@ -73,8 +76,9 @@ footer { color: var(--muted); font-size: 14px; padding-top: 30px; padding-bottom
 
 @media (max-width: 640px) {
   body { font-size: 17px; }
-  .intro { flex-direction: column; align-items: flex-start; gap: 18px; margin-top: 28px; }
-  .avatar { width: 130px; height: 130px; }
+  .top { grid-template-columns: 1fr; gap: 8px; margin-top: 28px; }
+  .avatar { width: 150px; }
+  .bio { padding-top: 14px; }
   .brand { display: none; }
   .topnav .wrap { justify-content: flex-end; }
   .navlinks a { margin-left: 16px; }

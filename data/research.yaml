@@ -44,15 +44,16 @@ publications:
       increase in innovation among other firms outweighed these declines. These results highlight how patent
       policy design within standard setting organizations can reallocate innovation incentives across firms.
     figures:
-      - src: "figures/ieee-raw-trends.png"
+      - src: "figures/ieee-nonstd-patents.png"
         caption: >-
-          Patents filed per firm–standard pair, normalized by each firm's pre-policy average, by quartile of
-          technological closeness to IEEE standards (group 1 = closest, control group). Dashed lines mark the
-          policy announcement (2013) and its endorsement (2015).
-      - src: "figures/ieee-event-study.png"
+          Effect of the IEEE policy change on non-standard-related patents for firms in the 2nd, 3rd and 4th
+          quartiles of technological distance from the standards, in the anticipation and post-policy periods.
+          Vertical bars are 95% confidence intervals.
+      - src: "figures/ieee-mechanism.png"
         caption: >-
-          Event-study estimates of the policy effect on standard-related patenting for firms in the 2nd, 3rd
-          and 4th quartiles relative to the 1st. Vertical bars are 95% confidence intervals.
+          Mechanism analysis: effect of the policy change on non-standard-related patents, R&D and total
+          patents for SEP and non-SEP holders in the 1st and 2nd quartiles, in the anticipation and
+          post-policy periods.
 
 working_papers:
   - title: "Uniform vs. Competing Standards: A Structural Analysis of the U.S. Wireless Telecommunications Industry"
@@ -69,14 +70,12 @@ working_papers:
       compatibility depend not only on network size, but also on the spatial allocation of firms'
       investment responses.
     figures:
-      - src: "figures/compat-spillovers.png"
-        caption: >-
-          Demand spillovers and business stealing: marginal effect of coverage exclusive to a compatible
-          rival (left) and of coverage exclusive to the focal firm (right) on the focal firm's market share.
-      - src: "figures/compat-heterogeneity.png"
-        caption: >-
-          Market-specific estimates of how firms' investment responds to empty-area and catch-up-area
-          opportunities, for the extensive (top) and intensive (bottom) margins.
+      - src: "figures/compat-fit-overlap-roaming.png"
+        caption: "Model fit: per-year changes in overlapping and roaming coverage, data (red) vs. model (blue)."
+      - src: "figures/compat-fit-overlap-by-standard.png"
+        caption: "Model fit: per-year overlapping coverage by standard (UMTS and CDMA2000), data vs. model."
+      - src: "figures/compat-fit-roaming-by-standard.png"
+        caption: "Model fit: per-year roaming coverage by standard (UMTS and CDMA2000), data vs. model."
 
   - title: "Standardization and Patent Portfolios: Understanding Firms' Choices in Standard Projects"
     pdf: "files/Bonani_Standardization_Patent_Portfolios.pdf"

@@ -29,24 +29,23 @@
   </nav>
 
   <main class="wrap" id="top">
-    <header class="intro">
-      <img class="avatar" src="{{ "img/avatar.jpg" | relURL }}" alt="Photo of Michela Bonani" width="180" height="180">
-      <div>
+    <div class="top">
+      <aside class="profile">
         <h1>Michela Bonani</h1>
+        <img class="avatar" src="{{ "img/avatar.jpg" | relURL }}" alt="Photo of Michela Bonani">
         <p class="role">{{ site.Params.role }}<br><a href="{{ site.Params.affiliationURL }}">{{ site.Params.affiliation }}</a></p>
-        <p class="quick">
-          <a href="{{ site.Params.cv | relURL }}"><strong>CV</strong></a>
-          · <a href="mailto:{{ site.Params.email }}">Email</a>
-          {{- with site.Params.scholar }} · <a href="{{ . }}">Google Scholar</a>{{ end }}
-          {{- with site.Params.github }} · <a href="{{ . }}">GitHub</a>{{ end }}
-          {{- with site.Params.linkedin }} · <a href="{{ . }}">LinkedIn</a>{{ end }}
-        </p>
-      </div>
-    </header>
-
-    <section class="bio">
-      {{ .Content }}
-    </section>
+        <ul class="links">
+          <li><a href="{{ site.Params.cv | relURL }}"><strong>CV</strong></a></li>
+          <li><a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></li>
+          {{- with site.Params.scholar }}<li><a href="{{ . }}">Google Scholar</a></li>{{ end }}
+          {{- with site.Params.github }}<li><a href="{{ . }}">GitHub</a></li>{{ end }}
+          {{- with site.Params.linkedin }}<li><a href="{{ . }}">LinkedIn</a></li>{{ end }}
+        </ul>
+      </aside>
+      <section class="bio">
+        {{ .Content }}
+      </section>
+    </div>
 
     <section id="research">
       <h2>Job Market Paper</h2>

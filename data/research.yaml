@@ -9,19 +9,14 @@ job_market_paper:
     coauthors: "J. Hidalgo"
     # pdf: "files/Bonani_JMP.pdf"     # <- add the JMP PDF to static/files/ and uncomment
     abstract: >-
-      This paper studies how multimodal technologies affect consumer welfare by expanding the set of
-      feasible transportation options. On transportation platforms, consumers may be unable to book their
-      searched trip because the requested origin–destination pair is not served or because supply is
-      unavailable at the time of booking. Multimodal technologies can relax these constraints by expanding
-      the set of reachable destinations and by increasing the availability of transportation options across
-      origin–destination pairs. However, the value of this technology depends on consumers' preferences for
-      multimodal trips and on their willingness to pay for the resulting improvement in service. We develop
-      an empirical model of transportation-mode choice across carpooling, buses, and an outside option on
-      BlaBlaCar, the largest long-distance carpooling platform. Using proprietary BlaBlaCar data on passenger
-      searches and bookings, together with information on the supply of BlaBlaCar cars and buses, we quantify
-      consumers' disutility from not making the searched trip, measured by the distance (in km) between the
-      searched and the booked origin–destination pairs. We use the estimated model to quantify consumers'
-      value of multimodal technology and its implications for consumer surplus.
+    We recover the valuation for multimodal technologies using detailed data from a long-distance transportation platform in France. 
+    About 66\% of the trips booked on the platform start or end in a different location from the one consumers initially searched for. 
+    We estimate a structural demand model and quantify the disutility arising from these spatial mismatches. 
+    We find that consumers are willing to pay 6.95 EUR to eliminate the average distance gap, and older and privacy-sensitive consumers 
+    would pay more than younger ones. We use our estimates to study the gains from eliminating spatial mismatches through 
+    the multimodal technology. The technology would raise total consumer surplus by 11.7 EUR million: 0.57 EUR per searcher 
+    or 5.6 EUR per booking. We show that the platform could charge a uniform fee of up to 5.2 EUR per trip for the technology without 
+    reducing the average surplus.
     # figures:                          # <- add 2–3 key graphs here, e.g.
     #   - src: "figures/jmp-1.png"
     #     caption: "Short description of what the graph shows."

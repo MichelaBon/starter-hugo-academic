@@ -17,7 +17,7 @@ job_market_paper:
       consumers would pay more than younger ones. We use our estimates to study the gains from eliminating
       spatial mismatches through the multimodal technology. The technology would raise total consumer
       surplus by EUR 11.7 million: EUR 0.57 per searcher or EUR 5.6 per booking. We show that the platform
-      could charge a uniform fee of up to EUR 5.12 per trip for the technology without reducing the average
+      could charge a uniform fee of up to EUR 5.2 per trip for the technology without reducing the average
       surplus.
     figures:
       - src: "figures/jmp-cs-gap-reduction.png"
@@ -39,6 +39,7 @@ publications:
     journal: "International Journal of Industrial Organization"
     details: "2026, 104, 103235"
     url: "https://doi.org/10.1016/j.ijindorg.2025.103235"
+    replication: "files/Bonani_IEEE_Replication.zip"
     abstract: >-
       This paper investigates how stricter licensing rules affect firms' incentives to innovate in
       standard-related technologies. I study the 2015 patent policy revision by the Institute of Electrical

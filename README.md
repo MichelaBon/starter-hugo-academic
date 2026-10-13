@@ -18,7 +18,7 @@ Personal academic website, built with [Hugo](https://gohugo.io) and deployed on 
 ## Common edits
 
 - **Update the CV:** replace `static/files/Bonani_CV.pdf` (keep the file name).
-- **Add a paper:** copy an entry in `data/research.yaml`. Optional fields: `coauthors`, `journal`, `details`, `status`, `pdf`, `url`, `appendix`, `slides`, `abstract`, `figures`.
+- **Add a paper:** copy an entry in `data/research.yaml`. Optional fields: `coauthors`, `journal`, `details`, `status`, `pdf`, `url`, `appendix`, `replication`, `slides`, `abstract`, `figures`.
 - **Add figures to a paper:** put a PNG in `static/figures/`, then list it under the paper's `figures:` with a one-sentence `caption`.
 
 ## Preview locally

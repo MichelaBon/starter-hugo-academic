@@ -9,7 +9,16 @@ job_market_paper:
     coauthors: "J. Hidalgo"
     # pdf: "files/Bonani_JMP.pdf"     # <- add the JMP PDF to static/files/ and uncomment
     abstract: >-
-    We recover the valuation for multimodal technologies using detailed data from a long-distance transportation platform in France. About 34% of the trips booked on the platform start or end in a different location from the one consumers initially searched for. We estimate a structural demand model and quantify the disutility arising from these spatial mismatches. We find that consumers are willing to pay 6.95 EUR, about a third of a fare, to eliminate the average distance gap, and older and privacy-sensitive consumers would pay more than younger ones. We use our estimates to study the gains from eliminating spatial mismatches through the multimodal technology. The technology would raise total consumer surplus by 10.4 EUR million: 0.57 EUR per searcher or 5.6 EUR per booking. We then show that the platform could charge a uniform fee of up to 5.12 EUR per trip, about a quarter of the average fare, for the technology without reducing the average surplus.
+      We recover the valuation for multimodal technologies using detailed data from a long-distance
+      transportation platform in France. About 34% of the trips booked on the platform start or end in a
+      different location from the one consumers initially searched for. We estimate a structural demand
+      model and quantify the disutility arising from these spatial mismatches. We find that consumers are
+      willing to pay 6.95 EUR, about a third of a fare, to eliminate the average distance gap, and older and
+      privacy-sensitive consumers would pay more than younger ones. We use our estimates to study the gains
+      from eliminating spatial mismatches through the multimodal technology. The technology would raise
+      total consumer surplus by 10.4 EUR million: 0.57 EUR per searcher or 5.6 EUR per booking. We then
+      show that the platform could charge a uniform fee of up to 5.12 EUR per trip, about a quarter of the
+      average fare, for the technology without reducing the average surplus.
     figures:
       - src: "figures/jmp-cs-gap-reduction.png"
         caption: >-

@@ -7,7 +7,7 @@
 job_market_paper:
   - title: "Enabling the Unavailable Trip: Consumer Welfare and Willingness to Pay for Multimodal Technology"
     coauthors: "J. Hidalgo"
-    # pdf: "files/Bonani_JMP.pdf"     # <- add the JMP PDF to static/files/ and uncomment
+    pdf: "files/Bonani_JMP.pdf"     # <- add the JMP PDF to static/files/ and uncomment
     abstract: >-
       We recover the valuation for multimodal technologies using detailed data from a long-distance
       transportation platform in France. About 34% of the trips booked on the platform start or end in a
